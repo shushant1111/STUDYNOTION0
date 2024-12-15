@@ -67,6 +67,8 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
+![Architechture](https://github.com/shushant1111/STUDYNOTION0/blob/main/public/architecture.png)
+
 
 ## Front End
 
@@ -164,6 +166,8 @@ Overall, the back-end of StudyNotion is designed to provide a robust and scalabl
 for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
+
+![Database Schema](https://github.com/shushant1111/STUDYNOTION0/blob/main/public/database.png)
 
 
 
